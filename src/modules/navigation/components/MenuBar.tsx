@@ -1,8 +1,8 @@
-function App() {
+export default function MenuBarComponent() {
+
     return (
         <div>
+
         </div>
     );
 }
-
-export default App
